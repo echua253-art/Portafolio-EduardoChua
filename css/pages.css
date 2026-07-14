@@ -26,7 +26,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #F1F5F9;
+  background-color: #1e3a8a
+  ;
   padding: 18px 50px;
   position: sticky;
   top: 0;
@@ -275,7 +276,7 @@ header {
 }
 
 .skill-tag {
-  background-color: #F1F5F9;
+  background-color: #1e3a8a;
   color: var(--color-blanco);
   padding: 8px 20px;
   border-radius: 25px;
@@ -295,7 +296,7 @@ header {
   display: inline-block;
   margin-top: 50px;
   padding: 13px 30px;
-  background-color: var(--color-acento);
+  background-color: #1e3a8a;
   color: var(--color-blanco);
   border-radius: 8px;
   text-decoration: none;
@@ -314,8 +315,8 @@ header {
 footer {
   text-align: center;
   padding: 25px;
-  background-color: #F1F5F9;
-  color: #64748B;
+  background-color: #1e3a8a;
+  color: #fff;
   font-size: 0.9rem;
   margin-top: 60px;
 }
